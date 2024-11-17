@@ -1,4 +1,3 @@
-import React from 'react'
 import Navbar from "./Navbar"
 import Footer from "./Footer"
 import { FaLocationArrow, FaMailBulk } from 'react-icons/fa'
